@@ -1,0 +1,125 @@
+Report for Institution Code LSUMZ, Resource lsumz-mammal-tissues
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 162
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Unknown ; Times: 9
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-13 ; Times: 3
+	Date: 2016-08-29 ; Times: 10
+	Date: 2016-08-15 ; Times: 2
+	Date: 2016-08-16 ; Times: 4
+	Date: 2016-08-18 ; Times: 3
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-27 ; Times: 2
+	Date: 2016-08-26 ; Times: 1
+	Date: 2016-08-20 ; Times: 2
+	Date: 2016-08-30 ; Times: 3
+	Date: 2016-08-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:Nuttalli genus:Ochrotomys tissue:1" ; Times: 1
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "genus:Ochrotomys stateprovince:&#34;Louisiana&#34; tissue:1" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "catalognumber:8693 institutioncode:LSUMZ" ; Times: 1
+	Query: "megasorex gigas" ; Times: 3
+	Query: "saimiri tissue:1" ; Times: 7
+	Query: "saimiri institutioncode:LSUMZ tissue:1" ; Times: 3
+	Query: "mustela frenata peru" ; Times: 2
+	Query: "Hippotragus zoo" ; Times: 1
+	Query: "Myotis atacamensis" ; Times: 2
+	Query: "Hippotragus equinus zoo" ; Times: 1
+	Query: "specificepithet:devius genus:Oryzomys" ; Times: 2
+	Query: "Lasiurus intermedius (Louisiana) tissue:1" ; Times: 1
+	Query: "mustela frenata en peru" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 66 (out of 924 download events in this period)
+Total number of records downloaded: 23506
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 4
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 7
+	Country: France ; Times: 1
+	Country: United States ; Times: 46
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 3
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-15 ; Times: 2
+	Date: 2016-08-16 ; Times: 2
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 2
+	Date: 2016-08-19 ; Times: 3
+	Date: 2016-08-30 ; Times: 4
+	Date: 2016-08-31 ; Times: 8
+	Date: 2016-08-29 ; Times: 14
+	Date: 2016-08-28 ; Times: 3
+	Date: 2016-08-25 ; Times: 7
+	Date: 2016-08-24 ; Times: 1
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 1
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 3
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-22 ; Times: 4
+	Date: 2016-08-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "artibeus lituratus" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "dipodomys microps" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Myotis oxyotus" ; Times: 1
+	Query: "saimiri institutioncode:LSUMZ tissue:1" ; Times: 3
+	Query: "specificepithet:parvus genus:Perognathus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 24
+	Query: "microtus montanus" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "saimiri tissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Dipodomys nitratoides nitratoides" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga tissue:1" ; Times: 1
+	Query: "stateprovince:&#34;choco&#34;" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "echimyidae" ; Times: 1
+	Query: "lutra" ; Times: 1
+	Query: "eulemur" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "mammalia Cryptotis" ; Times: 2
+
+
+End of report.
