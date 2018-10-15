@@ -1,0 +1,163 @@
+Report for Institution Code LSUMZ, Resource lsumz-mammal-tissues
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 148
+Number of records retrieved in searches: 1066
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 11
+	Country: Denmark ; Times: 69
+	Country: United States ; Times: 26
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 23
+	Country: Unknown ; Times: 7
+	Country: Japan ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 3
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-12 ; Times: 19
+	Date: 2018-01-29 ; Times: 8
+	Date: 2018-01-11 ; Times: 7
+	Date: 2018-01-10 ; Times: 2
+	Date: 2018-01-13 ; Times: 5
+	Date: 2018-01-27 ; Times: 2
+	Date: 2018-01-15 ; Times: 22
+	Date: 2018-01-14 ; Times: 15
+	Date: 2018-01-17 ; Times: 3
+	Date: 2018-01-16 ; Times: 14
+	Date: 2018-01-24 ; Times: 21
+	Date: 2018-01-22 ; Times: 6
+	Date: 2018-01-31 ; Times: 8
+	Date: 2018-01-23 ; Times: 2
+	Date: 2018-01-26 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "(tupaia) institutioncode:LSUMZ" ; Times: 3
+	Query: "Camelus dromedarius dromedarius" ; Times: 12
+	Query: "Loxodonta africana" ; Times: 12
+	Query: "LSU 5756" ; Times: 3
+	Query: "genus:Neacomys institutioncode:LSUMZ" ; Times: 1
+	Query: "Loxodonta africana africana" ; Times: 4
+	Query: "Panthera pardus pardus" ; Times: 2
+	Query: "Acinonyx jubatus" ; Times: 3
+	Query: "specificepithet:oxyotus genus:Myotis hastissue:1" ; Times: 1
+	Query: "gbifdatasetid:6346de55-4767-4bc3-a855-1c9e819f3fe9" ; Times: 1
+	Query: "nyctinomops aurispinosus" ; Times: 23
+	Query: "specificepithet:bursarius genus:geomys stateprovince:&#34;missouri&#34; hastissue:1" ; Times: 1
+	Query: "Aegialomys" ; Times: 1
+	Query: "Chiroderma salvini" ; Times: 1
+	Query: "Tapirus terrestris terrestris" ; Times: 4
+	Query: "catalognumber:1995 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:rosalia genus:Leontopithecus" ; Times: 1
+	Query: "catalognumber:505 institutioncode:LSUMZ" ; Times: 3
+	Query: "Myotis oxyotus" ; Times: 1
+	Query: "Orthogeomys hispidus" ; Times: 1
+	Query: "Nyctomys sumichrasti" ; Times: 1
+	Query: "Panthera tigris tigris" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:LSUMZ:mammalTissues:4403&#34;" ; Times: 4
+	Query: "Tapirus terrestris" ; Times: 5
+	Query: "Sciurillus" ; Times: 2
+	Query: "specificepithet:albescens genus:Myotis hastissue:1" ; Times: 2
+	Query: "Panthera pardus" ; Times: 2
+	Query: "Trichys" ; Times: 3
+	Query: "specificepithet:oxyotus genus:Myotis institutioncode:LSUMZ" ; Times: 1
+	Query: "acinonyx jubatus hastissue:1" ; Times: 1
+	Query: "Panthera tigris" ; Times: 3
+	Query: "Ammospermophilus nelsoni" ; Times: 1
+	Query: "Rhogeessa tumida" ; Times: 1
+	Query: "genus:geomys stateprovince:&#34;missouri&#34;" ; Times: 2
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "genus:geomys stateprovince:&#34;missouri&#34; hastissue:1" ; Times: 2
+	Query: "Myotis atacamensis" ; Times: 1
+	Query: "genus:Ochrotomys hastissue:1" ; Times: 1
+	Query: "Eptesicus brasiliensis" ; Times: 1
+	Query: "catalognumber:4670 institutioncode:LSUMZ" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 14
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Phylloderma stenops" ; Times: 1
+	Query: "trichys" ; Times: 1
+	Query: "Chiroderma institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "Mimon cozumelae" ; Times: 1
+	Query: "Coendou mexicanus" ; Times: 1
+	Query: "genus:panthera hastissue:1" ; Times: 5
+	Query: "Oryzomys concolor concolor" ; Times: 1
+	Query: "Oryzomys alfaroi" ; Times: 1
+	Query: "Chiroderma institutioncode:LSUMZ" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 1398 download events in this period)
+Total number of records downloaded: 1809
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 7
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 1
+	Country: United States ; Times: 14
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 2
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-31 ; Times: 2
+	Date: 2018-01-29 ; Times: 2
+	Date: 2018-01-02 ; Times: 7
+	Date: 2018-01-25 ; Times: 2
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-23 ; Times: 2
+	Date: 2018-01-24 ; Times: 3
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-05 ; Times: 1
+	Date: 2018-01-04 ; Times: 2
+	Date: 2018-01-16 ; Times: 1
+	Date: 2018-01-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "geomys pinetis" ; Times: 1
+	Query: "Dipodomys nelsoni" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "family:Leporidae basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Microdipodops megacephalus" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "nyctinomops aurispinosus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Myotis oxyotus" ; Times: 2
+	Query: "specificepithet:soricina genus:glossophaga hastissue:1" ; Times: 1
+	Query: "Myotis albescens" ; Times: 1
+	Query: "Microdipodops pallidus" ; Times: 1
+	Query: "specificepithet:albescens genus:Myotis hastissue:1" ; Times: 1
+	Query: "genus:Ochotona AND (NOT princeps) hastissue:1" ; Times: 1
+	Query: "genus:Odocoileus country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:oxyotus genus:Myotis institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Dipodomys nitratoides" ; Times: 1
+	Query: "genus:geomys stateprovince:&#34;missouri&#34; hastissue:1" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Chinchilla lanigera" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "Chiroderma institutioncode:LSUMZ" ; Times: 1
+	Query: "Reithrodontomys humulis" ; Times: 1
+
+
+End of report.
