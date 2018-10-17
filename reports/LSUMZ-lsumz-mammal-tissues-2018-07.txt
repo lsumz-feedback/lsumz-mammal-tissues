@@ -1,0 +1,110 @@
+Report for Institution Code LSUMZ, Resource lsumz-mammal-tissues
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 121
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: Unknown ; Times: 4
+	Country: Costa Rica ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: France ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 2
+	Date: 2018-07-12 ; Times: 4
+	Date: 2018-07-11 ; Times: 4
+	Date: 2018-07-10 ; Times: 5
+	Date: 2018-07-17 ; Times: 2
+	Date: 2018-07-16 ; Times: 2
+	Date: 2018-07-31 ; Times: 5
+	Date: 2018-07-05 ; Times: 1
+	Date: 2018-07-06 ; Times: 4
+	Date: 2018-07-02 ; Times: 4
+	Date: 2018-07-03 ; Times: 2
+	Date: 2018-07-24 ; Times: 4
+	Date: 2018-07-30 ; Times: 3
+	Date: 2018-07-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "6560 LSUMZ" ; Times: 1
+	Query: "lsumz 6183" ; Times: 1
+	Query: "catalognumber:7573 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:7574 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:tragata genus:Nycteris institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:pictus genus:Lycaon (captive OR zoo) institutioncode:LSUMZ" ; Times: 1
+	Query: "6612 LSUMZ" ; Times: 1
+	Query: "Lutra canadensis" ; Times: 2
+	Query: "catalognumber:7577 institutioncode:LSUMZ" ; Times: 1
+	Query: "2208 LSUMZ" ; Times: 1
+	Query: "1229 lsumz" ; Times: 1
+	Query: "family:Hystricidae hastissue:1" ; Times: 4
+	Query: "specificepithet:tragata genus:Nycteris order:Chiroptera hastissue:1" ; Times: 1
+	Query: "Nycteris tragata tissue" ; Times: 1
+	Query: "Nycteris tragata" ; Times: 3
+	Query: "specificepithet:tragata genus:Nycteris hastissue:1" ; Times: 1
+	Query: "catalognumber:7576 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:zerda genus:Vulpes (captive OR zoo)" ; Times: 1
+	Query: "specificepithet:pictus genus:Lycaon (captive OR zoo)" ; Times: 2
+	Query: "genus:metachirus institutioncode:LSUMZ" ; Times: 2
+	Query: "Eumops Costa Rica" ; Times: 1
+	Query: "Panthera uncia" ; Times: 4
+	Query: "5261 LSUMZ" ; Times: 1
+	Query: "Hydrochaerus" ; Times: 2
+	Query: "6696 LSUMZ" ; Times: 1
+	Query: "LSUMZ 4356" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis (captive OR zoo)" ; Times: 1
+	Query: "Canis latrans institutioncode:LSUMZ" ; Times: 3
+	Query: "5958 LSUMZ" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 977 download events in this period)
+Total number of records downloaded: 373
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Brazil ; Times: 3
+	Country: Colombia ; Times: 4
+	Country: Chile ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-10 ; Times: 2
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-19 ; Times: 2
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-14 ; Times: 3
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-07 ; Times: 1
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-24 ; Times: 2
+	Date: 2018-07-17 ; Times: 2
+	Date: 2018-07-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Glossophaga soricina" ; Times: 1
+	Query: "genus:ammospermophilus stateprovince:&#34;baja california&#34;" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "caenolestes" ; Times: 1
+	Query: "Mimon cozumelae" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Canis latrans institutioncode:LSUMZ" ; Times: 2
+	Query: "Caenolestes" ; Times: 2
+	Query: "Anoura" ; Times: 1
+	Query: "Vampyressa pusilla" ; Times: 1
+	Query: "insecta" ; Times: 1
+	Query: "genus:metachirus institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:tamiasciurus hastissue:1" ; Times: 1
+	Query: "Nyctinomops laticaudatus" ; Times: 1
+
+
+End of report.
