@@ -1,0 +1,110 @@
+Report for Institution Code LSUMZ, Resource lsumz-mammal-tissues
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 60
+Number of records retrieved in searches: 271
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 52
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 5
+	Date: 2018-09-04 ; Times: 4
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-30 ; Times: 10
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-25 ; Times: 26
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-19 ; Times: 4
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-08 ; Times: 1
+	Date: 2018-09-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:stramineus genus:Sciurus" ; Times: 2
+	Query: "specificepithet:maculatum genus:euderma" ; Times: 8
+	Query: "specificepithet:perotensis genus:Cratogeomys" ; Times: 2
+	Query: "LSUMZ 2482" ; Times: 1
+	Query: "Mustela nivalis hastissue:1" ; Times: 2
+	Query: "specificepithet:arenarius genus:geomys" ; Times: 1
+	Query: "catalognumber:2096 &#34;sylvilagus floridanus&#34;" ; Times: 1
+	Query: "specificepithet:fumosus genus:Cratogeomys" ; Times: 2
+	Query: "genus:Microcebus hastissue:1" ; Times: 1
+	Query: "family:Cheirogaleidae hastissue:1" ; Times: 1
+	Query: "specificepithet:trichopus genus:Zygogeomys" ; Times: 2
+	Query: "catalognumber:1980 hastissue:1" ; Times: 1
+	Query: "specificepithet:prevostii genus:Callosciurus" ; Times: 2
+	Query: "specificepithet:pusillus genus:Sciurillus" ; Times: 2
+	Query: "specificepithet:tropicalis genus:Geomys" ; Times: 2
+	Query: "specificepithet:atacamensis genus:myotis hastissue:1" ; Times: 2
+	Query: "specificepithet:planiceps genus:Cratogeomys" ; Times: 2
+	Query: "specificepithet:merriami genus:Cratogeomys" ; Times: 2
+	Query: "specificepithet:fulvescens genus:Cratogeomys" ; Times: 2
+	Query: "specificepithet:maculatum genus:euderma hastissue:1" ; Times: 2
+	Query: "catalognumber:1594 institutioncode:LSUMZ" ; Times: 2
+	Query: "family:Lemuridae hastissue:1" ; Times: 1
+	Query: "specificepithet:goldmani genus:Cratogeomys" ; Times: 2
+	Query: "dasypus pilosus" ; Times: 1
+	Query: "catalognumber:7846 institutioncode:LSUMZ" ; Times: 5
+	Query: "specificepithet:bicolor genus:Ratufa" ; Times: 2
+	Query: "catalognumber:2098 &#34;sylvilagus floridanus&#34;" ; Times: 1
+	Query: "megasorex gigas" ; Times: 1
+	Query: "catalognumber:1594 institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "genus:Eulemur hastissue:1" ; Times: 1
+	Query: "specificepithet:murinus genus:Graphiurus hastissue:1" ; Times: 1
+	Query: "specificepithet:bulleri genus:Pappogeomys" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 846 download events in this period)
+Total number of records downloaded: 4168
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-15 ; Times: 2
+	Date: 2018-09-21 ; Times: 1
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-19 ; Times: 4
+	Date: 2018-09-18 ; Times: 3
+	Date: 2018-09-08 ; Times: 1
+	Date: 2018-09-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:maculatum genus:euderma" ; Times: 1
+	Query: "Caenolestes fuliginosus" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "family:Cheirogaleidae hastissue:1" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "micronycteris minuta" ; Times: 1
+	Query: "DIDELPHIS ALBIVENTRIS" ; Times: 1
+	Query: "specificepithet:arenarius genus:geomys" ; Times: 2
+	Query: "order:Rodentia institutioncode:LSUMZ" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "vntype:specimen genus:Coendou" ; Times: 1
+	Query: "family:Lemuridae hastissue:1" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "perognathus longimembris" ; Times: 1
+
+
+End of report.
