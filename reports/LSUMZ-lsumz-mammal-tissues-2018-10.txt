@@ -1,0 +1,188 @@
+Report for Institution Code LSUMZ, Resource lsumz-mammal-tissues
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 341
+Number of records retrieved in searches: 1283
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 317
+	Country: Peru ; Times: 1
+	Country: Ecuador ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 76
+	Date: 2018-10-05 ; Times: 4
+	Date: 2018-10-07 ; Times: 23
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-01 ; Times: 36
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-03 ; Times: 28
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-25 ; Times: 3
+	Date: 2018-10-08 ; Times: 38
+	Date: 2018-10-09 ; Times: 20
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-13 ; Times: 3
+	Date: 2018-10-18 ; Times: 12
+	Date: 2018-10-30 ; Times: 2
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-10 ; Times: 49
+	Date: 2018-10-24 ; Times: 3
+	Date: 2018-10-11 ; Times: 34
+	Date: 2018-10-15 ; Times: 4
+	Date: 2018-10-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Euderma" ; Times: 1
+	Query: "catalognumber:4739 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:stramineus genus:Sciurus" ; Times: 8
+	Query: "genus:Eumops family:Molossidae country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:euderma" ; Times: 4
+	Query: "panthera uncia" ; Times: 1
+	Query: "catalognumber:8163 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Euderma maculatum hastissue:1" ; Times: 3
+	Query: "specificepithet:pusillus genus:Sciurillus" ; Times: 8
+	Query: "catalognumber:1496 hastissue:1" ; Times: 1
+	Query: "specificepithet:fuliginosa genus:Dasyprocta" ; Times: 2
+	Query: "specificepithet:merriami genus:Cratogeomys" ; Times: 7
+	Query: "1414* institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:nelsoni genus:Ammospermophilus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus stateprovince:&#34;tennessee&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "Lonchophylla hesperia" ; Times: 19
+	Query: "specificepithet:macrotis genus:Thomasomys" ; Times: 2
+	Query: "specificepithet:Maculatum genus:Euderma" ; Times: 1
+	Query: "LSUMZ 4281" ; Times: 1
+	Query: "specificepithet:flaviventer genus:Microsciurus" ; Times: 1
+	Query: "specificepithet:fumosus genus:Cratogeomys" ; Times: 8
+	Query: "catalognumber:4735 institutioncode:LSUMZ" ; Times: 3
+	Query: "specificepithet:maculatum genus:Euderma" ; Times: 62
+	Query: "specificepithet:brachyura genus:Hystrix" ; Times: 4
+	Query: "genus:euderma maculatum" ; Times: 1
+	Query: "vntype:specimen specificepithet:maculatum genus:Euderma" ; Times: 2
+	Query: "specificepithet:trichopus genus:Zygogeomys" ; Times: 8
+	Query: "chinchilla mammalia" ; Times: 1
+	Query: "specificepithet:nelsoni genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:prevostii genus:Callosciurus" ; Times: 8
+	Query: "specificepithet:bonariensis genus:Eumops family:Molossidae country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "specificepithet:interpres genus:Ammospermophilus" ; Times: 1
+	Query: "hydrochoerus vntype:specimen hastissue:1" ; Times: 1
+	Query: "lonchophylla hesperia" ; Times: 1
+	Query: "catalognumber:4853 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:lanigera genus:Chinchilla" ; Times: 1
+	Query: "specificepithet:grandis genus:Orthogeomys" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "specificepithet:bicolor genus:Oecomys" ; Times: 1
+	Query: "specificepithet:planiceps genus:Cratogeomys" ; Times: 8
+	Query: "specificepithet:lowii genus:Sundasciurus" ; Times: 4
+	Query: "specificepithet:bulbivorus genus:Thomomys" ; Times: 1
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 5
+	Query: "euderma maculatum" ; Times: 5
+	Query: "specificepithet:fulvescens genus:Cratogeomys" ; Times: 8
+	Query: "specificepithet:Maculatum genus:Euderma hastissue:1" ; Times: 2
+	Query: "scientificname:Lonchophylla hesperia " ; Times: 1
+	Query: "vntype:specimen specificepithet:maculatum genus:Euderma hastissue:1" ; Times: 1
+	Query: "specificepithet:maculatum genus:euderma hastissue:1" ; Times: 4
+	Query: "specificepithet:tenuipes genus:Neacomys" ; Times: 2
+	Query: "specificepithet:sorellus genus:Calomys" ; Times: 2
+	Query: "lsumz 1569" ; Times: 1
+	Query: "specificepithet:australis genus:Heteromys" ; Times: 2
+	Query: "specificepithet:ignitus genus:Sciurus" ; Times: 1
+	Query: "specificepithet:tropicalis genus:Geomys" ; Times: 8
+	Query: "pilosus" ; Times: 1
+	Query: "catalognumber:1882 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:goldmani genus:Cratogeomys" ; Times: 8
+	Query: "genus:Euderma maculatum" ; Times: 3
+	Query: "specificepithet:bicolor genus:Ratufa" ; Times: 8
+	Query: "specificepithet:centralis genus:Promops family:Molossidae" ; Times: 1
+	Query: "specificepithet:fasciculata genus:Trichys" ; Times: 4
+	Query: "vntype:specimen genus:panthera hastissue:1" ; Times: 1
+	Query: "specificepithet:maculatum genus:Euderma hastissue:1" ; Times: 65
+	Query: "specificepithet:hippurus genus:Sundasciurus" ; Times: 4
+	Query: "specificepithet:arenarius genus:Geomys" ; Times: 1
+	Query: "specificepithet:perotensis genus:Cratogeomys" ; Times: 8
+	Query: "specificepithet:sumichrasti genus:Nyctomys" ; Times: 1
+	Query: "catalognumber:4820 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:4840 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:bulleri genus:Pappogeomys" ; Times: 1
+	Query: "catalognumber:377 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:caniceps genus:Callosciurus" ; Times: 1
+	Query: "LSUMZ 1889" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 93 (out of 1300 download events in this period)
+Total number of records downloaded: 1399
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 2
+	Country: United States ; Times: 82
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 11
+	Date: 2018-10-05 ; Times: 3
+	Date: 2018-10-07 ; Times: 3
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-24 ; Times: 1
+	Date: 2018-10-03 ; Times: 2
+	Date: 2018-10-22 ; Times: 2
+	Date: 2018-10-25 ; Times: 1
+	Date: 2018-10-08 ; Times: 6
+	Date: 2018-10-09 ; Times: 14
+	Date: 2018-10-13 ; Times: 3
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-30 ; Times: 3
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-10 ; Times: 22
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-11 ; Times: 12
+	Date: 2018-10-15 ; Times: 4
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 1
+	Query: "panthera uncia" ; Times: 1
+	Query: "genus:Euderma maculatum hastissue:1" ; Times: 8
+	Query: "Ochotona princeps vntype:specimen" ; Times: 1
+	Query: "glaucomys volans" ; Times: 1
+	Query: "dipodomys microps" ; Times: 1
+	Query: "specificepithet:maculatum genus:Euderma hastissue:1" ; Times: 47
+	Query: "specificepithet:nelsoni genus:Dipodomys country:&#34;México&#34;" ; Times: 1
+	Query: "Lonchophylla hesperia" ; Times: 1
+	Query: "specificepithet:maculatum genus:euderma" ; Times: 1
+	Query: "specificepithet:maculatum genus:Euderma" ; Times: 4
+	Query: "genus:Myotis" ; Times: 2
+	Query: "onychomys leucogaster AND new mexico" ; Times: 2
+	Query: "ochotona collaris" ; Times: 1
+	Query: "specificepithet:deserti genus:Dipodomys country:&#34;México&#34;" ; Times: 1
+	Query: "lonchophylla hesperia" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;chihuahua&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 1
+	Query: "specificepithet:maculatum genus:euderma hastissue:1" ; Times: 3
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "family:Felidae (Felis)" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "onychomys arenicola AND new mexico" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Tadarida brasiliensis genus:Tadarida" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+
+
+End of report.
