@@ -1,0 +1,117 @@
+Report for Institution Code LSUMZ, Resource lsumz-mammal-tissues
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 48
+Number of records retrieved in searches: 206
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 41
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-07 ; Times: 18
+	Date: 2019-01-19 ; Times: 5
+	Date: 2019-01-14 ; Times: 2
+	Date: 2019-01-15 ; Times: 2
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-17 ; Times: 3
+	Date: 2019-01-10 ; Times: 7
+	Date: 2019-01-24 ; Times: 4
+	Date: 2019-01-26 ; Times: 1
+	Date: 2019-01-25 ; Times: 2
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:7451 institutioncode:LSUMZ" ; Times: 4
+	Query: "catalognumber:7373 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:7366 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:7372 institutioncode:LSUMZ" ; Times: 2
+	Query: "LSU 5670" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;Utah&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "megasorex" ; Times: 1
+	Query: "family:leporidae stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "catalognumber:7371 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:7367 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:parva genus:Cryptotis country:&#34;Mexico&#34; hastissue:1" ; Times: 3
+	Query: "catalognumber:7376 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:11114 institutioncode:LSUMZ" ; Times: 2
+	Query: "Canis rufus louisiana" ; Times: 5
+	Query: "Megasorex gigas" ; Times: 5
+	Query: "genus:Panthera hastissue:1" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "Canis latrans louisiana" ; Times: 1
+	Query: "specificepithet:pardus genus:Panthera hastissue:1" ; Times: 1
+	Query: "specificepithet:hispidus genus:Chaetodipus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "catalognumber:7447 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:umbrinus genus:tamias institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:orthogeomys class:mammalia stateprovince:&#34;Chiriqui&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "catalognumber:2800 institutioncode:LSUMZ" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 962 download events in this period)
+Total number of records downloaded: 9605
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 21
+	Country: Colombia ; Times: 2
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-07 ; Times: 4
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-10 ; Times: 4
+	Date: 2019-01-11 ; Times: 2
+	Date: 2019-01-29 ; Times: 3
+	Date: 2019-01-18 ; Times: 2
+	Date: 2019-01-31 ; Times: 3
+	Date: 2019-01-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "marmosa" ; Times: 1
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Canis rufus louisiana" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Chiroderma salvini" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;louisiana&#34;" ; Times: 3
+	Query: "genus:Ochotona hastissue:1" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "genus:Lasiurus stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "hastissue:1 peromyscus boylii" ; Times: 1
+	Query: "Eumops glaucinus" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus family:Cricetidae hastissue:1" ; Times: 1
+	Query: "Mimon" ; Times: 1
+	Query: "genus:Lasiurus stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "class:Mammalia institutioncode:LSUMZ" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:hispidus genus:Chaetodipus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "elephantulus rufescens" ; Times: 1
+	Query: "genus:Sciurus hastissue:1" ; Times: 2
+	Query: "hastissue:1 peromyscus truei" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+
+
+End of report.
