@@ -1,0 +1,80 @@
+Report for Institution Code LSUMZ, Resource lsumz-mammal-tissues
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 6167
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 59
+	Country: Unknown ; Times: 1
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-13 ; Times: 38
+	Date: 2019-02-26 ; Times: 2
+	Date: 2019-02-27 ; Times: 3
+	Date: 2019-02-20 ; Times: 3
+	Date: 2019-02-21 ; Times: 5
+	Date: 2019-02-22 ; Times: 2
+	Date: 2019-02-15 ; Times: 3
+	Date: 2019-02-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:arenarius genus:Geomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "glaucomys sabrinus &#34;west virginia&#34;" ; Times: 1
+	Query: "catalognumber:7375 institutioncode:lsumz" ; Times: 1
+	Query: "catalognumber:7846 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:LSUMZ" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 12
+	Query: "specificepithet:princeps genus:ochotona stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Elephantidae hastissue:1" ; Times: 1
+	Query: "Ochotona collaris" ; Times: 31
+	Query: "euderma maculatum" ; Times: 1
+	Query: "specificepithet:uncia genus:Panthera" ; Times: 3
+	Query: "specificepithet:castanops stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "catalognumber:2704 institutioncode:LSUMZ" ; Times: 2
+	Query: "euderma" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias institutioncode:LSUMZ" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1227 download events in this period)
+Total number of records downloaded: 193
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Brazil ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-25 ; Times: 1
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-21 ; Times: 1
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Vulpes zerda" ; Times: 1
+	Query: "lycaon pictus" ; Times: 1
+	Query: "genus:Pteropus hastissue:1" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:LSUMZ" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "Heteromys" ; Times: 1
+	Query: "specificepithet:gossypinus genus:Peromyscus stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "Lionycteris spurrelli" ; Times: 1
+
+
+End of report.
