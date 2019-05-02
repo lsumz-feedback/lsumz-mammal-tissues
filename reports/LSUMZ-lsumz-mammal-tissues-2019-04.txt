@@ -1,0 +1,153 @@
+Report for Institution Code LSUMZ, Resource lsumz-mammal-tissues
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 607
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 48
+	Country: Brazil ; Times: 6
+	Country: India ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 7
+	Date: 2019-04-18 ; Times: 10
+	Date: 2019-04-02 ; Times: 4
+	Date: 2019-04-30 ; Times: 2
+	Date: 2019-04-12 ; Times: 3
+	Date: 2019-04-10 ; Times: 8
+	Date: 2019-04-17 ; Times: 5
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-23 ; Times: 2
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-24 ; Times: 9
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-29 ; Times: 2
+	Date: 2019-04-09 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:histiotus institutioncode:LSUMZ" ; Times: 3
+	Query: "panthera uncia" ; Times: 2
+	Query: "specificepithet:nelsoni genus:Ammospermophilus hastissue:1" ; Times: 2
+	Query: "catalognumber:10727 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:10730 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Sciurus stateprovince:&#34;virginia&#34; hastissue:1" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;san martin&#34; country:&#34;Peru&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "specificepithet:andinus genus:Akodon" ; Times: 1
+	Query: "specificepithet:hosei genus:Lariscus hastissue:1" ; Times: 1
+	Query: "genus:Cryptotis institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:flavus genus:Potos order:Carnivora class:Mammalia hastissue:1" ; Times: 1
+	Query: "lasiurus seminolus institutioncode:LSUMZ" ; Times: 1
+	Query: "(3597) institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:spermophilus institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:5742 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:tereticaudus genus:spermophilus class:mammalia institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:tragata genus:Nycteris institutioncode:LSUMZ" ; Times: 2
+	Query: "thomasomys macrotis" ; Times: 2
+	Query: "genus:eptesicus institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Exilisciurus hastissue:1" ; Times: 1
+	Query: "specificepithet:whiteheadi genus:Exilisciurus hastissue:1" ; Times: 2
+	Query: "specificepithet:aquaticus genus:Scalopus stateprovince:&#34;South Dakota&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 5
+	Query: "genus:Miniopterus institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "genus:Miniopterus hastissue:1" ; Times: 2
+	Query: "vntype:specimen genus:Geomys stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "catalognumber:545 institutioncode:LSUMZ" ; Times: 1
+	Query: "Sciurus carolinensis hastissue:1" ; Times: 4
+	Query: "specificepithet:ignitus genus:Sciurus hastissue:1" ; Times: 3
+	Query: "genus:Miniopterus institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:Cryptotis institutioncode:LSUMZ hastissue:1" ; Times: 2
+	Query: "specificepithet:aquaticus genus:Sylvilagus hastissue:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;San Martin&#34; country:&#34;Peru&#34; institutioncode:LSUMZ" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 1263 download events in this period)
+Total number of records downloaded: 2049
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 36
+	Country: Peru ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 4
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-10 ; Times: 5
+	Date: 2019-04-17 ; Times: 2
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-14 ; Times: 4
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-20 ; Times: 2
+	Date: 2019-04-01 ; Times: 3
+	Date: 2019-04-02 ; Times: 9
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-28 ; Times: 2
+	Date: 2019-04-29 ; Times: 8
+	Date: 2019-04-08 ; Times: 2
+	Date: 2019-04-27 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Rodentia stateprovince:&#34;Arequipa&#34; country:&#34;Perú&#34;" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 2
+	Query: "lycaon pictus" ; Times: 1
+	Query: "phyllotis magister" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:hispidus genus:Chaetodipus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Phyllotis darwini" ; Times: 1
+	Query: "specificepithet:flavus genus:Potos order:Carnivora class:Mammalia hastissue:1" ; Times: 1
+	Query: "NYCTICEIUS humeralis" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "Macroscelididae" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 1
+	Query: "genus:Chaetodipus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;San Martin&#34; country:&#34;Perú&#34;" ; Times: 1
+	Query: "phyllotis limatus" ; Times: 1
+	Query: "Phyllotis xanthopygus" ; Times: 1
+	Query: "Caenolestes fuliginosus" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Pasco&#34; country:&#34;Perú&#34;" ; Times: 1
+	Query: "specificepithet:pernix genus:Chaetodipus stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "EUMOPS PEROTIS" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Macroscelidea" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "order:Rodentia continent:Africa hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Geomys stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;La Libertad&#34; country:&#34;Perú&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Piura&#34; country:&#34;Perú&#34;" ; Times: 1
+	Query: "genus:eptesicus institutioncode:LSUMZ" ; Times: 2
+	Query: "order:Rodentia stateprovince:&#34;Loreto&#34; country:&#34;Perú&#34;" ; Times: 1
+	Query: "carollia castanea" ; Times: 2
+	Query: "baiomys taylori" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:pernix genus:Chaetodipus" ; Times: 3
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;San Martin&#34; country:&#34;Peru&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Huanuco&#34; country:&#34;Perú&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Lambayeque&#34; country:&#34;Perú&#34;" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 2
+
+
+End of report.
