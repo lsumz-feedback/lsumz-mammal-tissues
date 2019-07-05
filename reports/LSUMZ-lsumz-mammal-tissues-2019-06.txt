@@ -1,0 +1,189 @@
+Report for Institution Code LSUMZ, Resource lsumz-mammal-tissues
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 137
+Number of records retrieved in searches: 902
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 131
+	Country: Brazil ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-24 ; Times: 1
+	Date: 2019-06-26 ; Times: 1
+	Date: 2019-06-30 ; Times: 1
+	Date: 2019-06-07 ; Times: 4
+	Date: 2019-06-17 ; Times: 1
+	Date: 2019-06-05 ; Times: 3
+	Date: 2019-06-11 ; Times: 64
+	Date: 2019-06-10 ; Times: 58
+	Date: 2019-06-02 ; Times: 1
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Megaerops specificepithet:ecaudatus" ; Times: 1
+	Query: "genus:Eulemur specificepithet:fulvus" ; Times: 2
+	Query: "genus:Tupaia specificepithet:montana" ; Times: 2
+	Query: "genus:Cercopithecus specificepithet:diana" ; Times: 2
+	Query: "genus:Rhinolophus specificepithet:affinis" ; Times: 2
+	Query: "genus:Elephantulus specificepithet:rufescens" ; Times: 1
+	Query: "genus:Murina specificepithet:cyclotis" ; Times: 1
+	Query: "genus:Alouatta specificepithet:caraya" ; Times: 2
+	Query: "genus:Saguinus specificepithet:midas" ; Times: 2
+	Query: "genus:Callicebus specificepithet:moloch" ; Times: 2
+	Query: "genus:Cyclopes specificepithet:didactylus" ; Times: 1
+	Query: "genus:Metachirus specificepithet:nudicaudatus" ; Times: 1
+	Query: "genus:Tupaia specificepithet:minor" ; Times: 2
+	Query: "genus:Varecia specificepithet:variegata" ; Times: 3
+	Query: "genus:Sturnira specificepithet:bidens" ; Times: 1
+	Query: "genus:Vampyressa specificepithet:pusilla" ; Times: 1
+	Query: "genus:Hipposideros specificepithet:larvatus" ; Times: 1
+	Query: "Histiotus" ; Times: 1
+	Query: "genus:Leontopithecus specificepithet:rosalia" ; Times: 2
+	Query: "genus:Lycaon specificepithet:pictus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus stateprovince:&#34;Virginia&#34; institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "genus:Tapirus specificepithet:terrestris" ; Times: 2
+	Query: "catalognumber:7846 institutioncode:LSUMZ" ; Times: 3
+	Query: "genus:Kerivoula specificepithet:pellucida" ; Times: 1
+	Query: "genus:Rhogeessa specificepithet:tumida" ; Times: 1
+	Query: "genus:Macroglossus specificepithet:sobrinus" ; Times: 1
+	Query: "genus:Eumops specificepithet:perotis" ; Times: 1
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 1
+	Query: "genus:Chinchilla specificepithet:lanigera" ; Times: 1
+	Query: "genus:Tupaia specificepithet:belangeri" ; Times: 2
+	Query: "genus:Aonyx specificepithet:cinerea" ; Times: 2
+	Query: "genus:Micronycteris specificepithet:minuta" ; Times: 1
+	Query: "genus:Platyrrhinus specificepithet:vittatus" ; Times: 1
+	Query: "Lama guanicoe" ; Times: 1
+	Query: "genus:Gorilla specificepithet:gorilla" ; Times: 3
+	Query: "genus:Nyctinomops specificepithet:aurispinosus" ; Times: 1
+	Query: "genus:Ochotona specificepithet:collaris" ; Times: 1
+	Query: "genus:Erythrocebus specificepithet:patas" ; Times: 2
+	Query: "Myotis atacamensis" ; Times: 1
+	Query: "genus:Eumops specificepithet:glaucinus" ; Times: 1
+	Query: "genus:Eptesicus specificepithet:brasiliensis" ; Times: 2
+	Query: "genus:Chiroderma specificepithet:salvini" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias class:mammalia institutioncode:LSUMZ" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "genus:Nycticebus specificepithet:coucang" ; Times: 2
+	Query: "genus:Niviventer specificepithet:rapit" ; Times: 1
+	Query: "genus:Uroderma specificepithet:magnirostrum" ; Times: 1
+	Query: "genus:Tupaia specificepithet:gracilis" ; Times: 1
+	Query: "genus:Tupaia specificepithet:tana" ; Times: 2
+	Query: "genus:Lutra specificepithet:canadensis" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:intermedius" ; Times: 1
+	Query: "genus:Balionycteris specificepithet:maculata" ; Times: 1
+	Query: "genus:Rhinophylla specificepithet:fischerae" ; Times: 1
+	Query: "genus:Idionycteris specificepithet:phyllotis" ; Times: 1
+	Query: "genus:Perognathus specificepithet:fasciatus" ; Times: 1
+	Query: "genus:Cryptotis institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Phyllostomus specificepithet:elongatus" ; Times: 2
+	Query: "genus:Nasua specificepithet:nasua" ; Times: 1
+	Query: "genus:Hydrochoerus specificepithet:hydrochaeris" ; Times: 1
+	Query: "specificepithet:lituratus genus:Artibeus institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:Callithrix specificepithet:jacchus" ; Times: 2
+	Query: "genus:Sylvilagus specificepithet:aquaticus" ; Times: 2
+	Query: "genus:Microcebus specificepithet:murinus" ; Times: 2
+	Query: "genus:Eulemur specificepithet:macaco" ; Times: 2
+	Query: "genus:Platyrrhinus specificepithet:lineatus" ; Times: 1
+	Query: "genus:Lemur specificepithet:catta" ; Times: 3
+	Query: "genus:Phylloderma specificepithet:stenops" ; Times: 1
+	Query: "genus:Panthera specificepithet:pardus" ; Times: 2
+	Query: "genus:Saccopteryx specificepithet:leptura" ; Times: 1
+	Query: "genus:Sturnira specificepithet:magna" ; Times: 1
+	Query: "genus:Miopithecus specificepithet:talapoin" ; Times: 2
+	Query: "genus:Colobus specificepithet:guereza" ; Times: 2
+	Query: "genus:Martes specificepithet:flavigula" ; Times: 1
+	Query: "genus:Urogale specificepithet:everetti" ; Times: 2
+	Query: "genus:Sundamys specificepithet:muelleri" ; Times: 1
+	Query: "genus:Lionycteris specificepithet:spurrelli" ; Times: 1
+	Query: "genus:Tupaia specificepithet:dorsalis" ; Times: 1
+	Query: "genus:Rhinolophus specificepithet:creaghi" ; Times: 1
+	Query: "genus:Promops specificepithet:centralis" ; Times: 1
+	Query: "genus:Microryzomys specificepithet:minutus" ; Times: 1
+	Query: "genus:Ailurus specificepithet:fulgens" ; Times: 1
+	Query: "genus:Didelphis specificepithet:albiventris" ; Times: 1
+	Query: "genus:Callithrix specificepithet:pygmaea" ; Times: 2
+	Query: "genus:Rhinolophus specificepithet:luctus" ; Times: 1
+	Query: "genus:Anoura specificepithet:cultrata" ; Times: 1
+	Query: "genus:Procavia specificepithet:capensis" ; Times: 2
+	Query: "genus:Platyrrhinus specificepithet:dorsalis" ; Times: 1
+	Query: "genus:Nyctomys specificepithet:sumichrasti" ; Times: 2
+	Query: "genus:Rhinolophus specificepithet:lepidus" ; Times: 1
+	Query: "genus:Rhinolophus specificepithet:philippinensis" ; Times: 1
+	Query: "genus:Megaderma specificepithet:spasma" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus institutioncode:LSUMZ hastissue:1" ; Times: 3
+	Query: "genus:Lonchophylla specificepithet:mordax" ; Times: 1
+	Query: "genus:Cheiromeles specificepithet:torquatus" ; Times: 1
+	Query: "genus:Thomasomys specificepithet:aureus" ; Times: 1
+	Query: "genus:Leopoldamys specificepithet:sabanus" ; Times: 1
+	Query: "Mormopterus kalinowskii" ; Times: 1
+	Query: "genus:Mimon specificepithet:cozumelae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1182 download events in this period)
+Total number of records downloaded: 434
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Brazil ; Times: 1
+	Country: Peru ; Times: 8
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-22 ; Times: 4
+	Date: 2019-06-19 ; Times: 1
+	Date: 2019-06-26 ; Times: 2
+	Date: 2019-06-08 ; Times: 1
+	Date: 2019-06-30 ; Times: 3
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-07 ; Times: 5
+	Date: 2019-06-04 ; Times: 2
+	Date: 2019-06-05 ; Times: 3
+	Date: 2019-06-11 ; Times: 5
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-28 ; Times: 1
+	Date: 2019-06-24 ; Times: 2
+	Date: 2019-06-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Nyctinomops aurispinosus" ; Times: 1
+	Query: "specificepithet:gapperi genus:Clethrionomys" ; Times: 1
+	Query: "Phyllostomus discolor" ; Times: 1
+	Query: "Vulpes zerda" ; Times: 1
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "Castor canadensis canadensis" ; Times: 1
+	Query: "ursus americanus" ; Times: 2
+	Query: "castor canadensis" ; Times: 1
+	Query: "Myotis oxyotus" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "Ursus americanus" ; Times: 2
+	Query: "Phyllostomus elongatus" ; Times: 1
+	Query: "Histiotus montanus" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 2
+	Query: "Myotis atacamensis" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "specificepithet:flavus genus:perognathus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Mormopterus kalinowskii" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "lama guanicoe" ; Times: 1
+	Query: "Phylloderma stenops" ; Times: 1
+	Query: "Mimon cozumelae" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 3
+	Query: "Nyctinomops laticaudatus" ; Times: 1
+
+
+End of report.
