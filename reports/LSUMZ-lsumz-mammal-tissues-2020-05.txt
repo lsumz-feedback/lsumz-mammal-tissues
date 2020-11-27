@@ -1,0 +1,91 @@
+Report for Institution Code LSUMZ, Resource lsumz-mammal-tissues
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 213
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-27 ; Times: 4
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-22 ; Times: 2
+	Date: 2020-05-29 ; Times: 1
+	Date: 2020-05-08 ; Times: 1
+	Date: 2020-05-07 ; Times: 1
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "LSUMZ 2859" ; Times: 1
+	Query: "9152 peromyscus" ; Times: 1
+	Query: "tomopeas" ; Times: 1
+	Query: "lsumz 2859" ; Times: 1
+	Query: "specificepithet:breviceps genus:Geomys stateprovince:&#34;louisiana&#34; hastissue:1" ; Times: 2
+	Query: "specificepithet:parva genus:Cryptotis institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor hastissue:1" ; Times: 1
+	Query: "Myocastor hastissue:1" ; Times: 3
+	Query: "LSUMZ 5798" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1106 download events in this period)
+Total number of records downloaded: 467
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 13
+	Country: Malaysia ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-30 ; Times: 4
+	Date: 2020-05-23 ; Times: 3
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-29 ; Times: 1
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-08 ; Times: 3
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-13 ; Times: 2
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lama guanicoe" ; Times: 2
+	Query: "specificepithet:rufescens genus:Elephantulus" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "Lama guanicoe" ; Times: 4
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "peromyscus melanotis" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "Martes flavigula" ; Times: 1
+	Query: "maxomys rajah" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+	Query: "mustela frenata" ; Times: 1
+	Query: "Perognathus fasciatus" ; Times: 1
+	Query: "Perognathus flavus" ; Times: 1
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "order:Rodentia stateprovince:New Mexico" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.
