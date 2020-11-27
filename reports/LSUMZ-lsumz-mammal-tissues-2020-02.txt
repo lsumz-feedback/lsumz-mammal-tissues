@@ -1,0 +1,149 @@
+Report for Institution Code LSUMZ, Resource lsumz-mammal-tissues
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 56
+Number of records retrieved in searches: 357
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: United States ; Times: 45
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-11 ; Times: 1
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-03 ; Times: 5
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-24 ; Times: 2
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-13 ; Times: 3
+	Date: 2020-02-12 ; Times: 5
+	Date: 2020-02-20 ; Times: 19
+	Date: 2020-02-04 ; Times: 3
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-06 ; Times: 3
+	Date: 2020-02-08 ; Times: 4
+	Date: 2020-02-28 ; Times: 4
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:1021 institutioncode:LSUMZ" ; Times: 1
+	Query: "Panthera uncia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 1
+	Query: "specificepithet:melanophrys genus:Peromyscus institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "class:mammalia catalognumber:1392" ; Times: 2
+	Query: "genus:Neacomys (Panama OR Colombia OR Venezuela)" ; Times: 1
+	Query: "catalognumber:879 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:austroriparius genus:myotis institutioncode:LSUMZ" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "genus:Graphiurus hastissue:1" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Histiotus hastissue:1" ; Times: 2
+	Query: "Thomasomys aureus" ; Times: 1
+	Query: "specificepithet:austroriparius genus:myotis institutioncode:LSUMZ hastissue:1" ; Times: 2
+	Query: "catalognumber:4947 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:2851 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:7322 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:spasma genus:Megaderma hastissue:1" ; Times: 1
+	Query: "catalognumber:8166 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:7307 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:7355 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:fuscipes genus:Neotoma institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:aztecus genus:Peromyscus stateprovince:&#34;Michoacan&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:7781 institutioncode:LSUMZ" ; Times: 1
+	Query: "family:cricetidae country:&#34;peru&#34; institutioncode:LSUMZ" ; Times: 2
+	Query: "euderma maculatum basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "vntype:specimen specificepithet:austroriparius genus:myotis institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "tomopeas ravus" ; Times: 1
+	Query: "LSU 5803" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "catalognumber:7254 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Reithrodontomys country:&#34;Costa Rica&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:personatus genus:geomys hastissue:1" ; Times: 1
+	Query: "catalognumber:4737 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Tonatia hastissue:1" ; Times: 6
+	Query: "catalognumber:7356 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSU 2392" ; Times: 1
+	Query: "catalognumber:2361 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSU 8166" ; Times: 1
+	Query: "specificepithet:bulleri stateprovince:&#34;Nayarit&#34;" ; Times: 1
+	Query: "genus:Megaderma order:Chiroptera hastissue:1" ; Times: 1
+	Query: "family:muridae country:&#34;peru&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:880 institutioncode:LSUMZ" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1023 download events in this period)
+Total number of records downloaded: 2079
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 23
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-27 ; Times: 4
+	Date: 2020-02-03 ; Times: 2
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-05 ; Times: 6
+	Date: 2020-02-11 ; Times: 2
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-20 ; Times: 2
+	Date: 2020-02-07 ; Times: 2
+	Date: 2020-02-17 ; Times: 2
+	Date: 2020-02-23 ; Times: 2
+	Date: 2020-02-01 ; Times: 1
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-28 ; Times: 1
+	Date: 2020-02-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:heermanni genus:dipodomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Graphiurus" ; Times: 2
+	Query: "genus:dolichotis" ; Times: 1
+	Query: "neacomys" ; Times: 1
+	Query: "genus:Neacomys (Panama OR Colombia OR Venezuela)" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "specificepithet:pallidus genus:Microdipodops stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "specificepithet:megacephalus genus:Microdipodops stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "genus:dasyprocta" ; Times: 1
+	Query: "vntype:specimen order:Primates family:galagidae" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "Arequipa" ; Times: 1
+	Query: "Grammomys dolichurus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "genus:Geomys family:Geomyidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen order:Primates family:Lorisidae" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "sciurus niger" ; Times: 1
+	Query: "vntype:specimen genus:Graphiurus" ; Times: 1
+	Query: "myotis oxyotus" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "specificepithet:californicus genus:dipodomys stateprovince:&#34;california&#34;" ; Times: 1
+
+
+End of report.
