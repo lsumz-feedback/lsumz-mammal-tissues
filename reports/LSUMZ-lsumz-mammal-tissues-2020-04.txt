@@ -1,0 +1,143 @@
+Report for Institution Code LSUMZ, Resource lsumz-mammal-tissues
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 116
+Number of records retrieved in searches: 488
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 95
+	Country: Austria ; Times: 3
+	Country: Peru ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-03 ; Times: 12
+	Date: 2020-04-17 ; Times: 3
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-15 ; Times: 4
+	Date: 2020-04-07 ; Times: 41
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-30 ; Times: 2
+	Date: 2020-04-21 ; Times: 40
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-29 ; Times: 2
+	Date: 2020-04-08 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Nyctinomops aurispinosus" ; Times: 2
+	Query: "Vulpes zerda" ; Times: 5
+	Query: "LSUMZ 8289" ; Times: 1
+	Query: "Microsciurus flaviventer" ; Times: 3
+	Query: "specificepithet:lituratus genus:Artibeus country:Paraguay" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Chironax melanocephalus" ; Times: 4
+	Query: "nyctinomops aurispinosus" ; Times: 7
+	Query: "Erythrocebus patas" ; Times: 4
+	Query: "Oecomys bicolor" ; Times: 6
+	Query: "Tapirus terrestris" ; Times: 11
+	Query: "Cercopithecus diana" ; Times: 4
+	Query: "Saguinus midas" ; Times: 2
+	Query: "Panthera tigris" ; Times: 6
+	Query: "Lutra lutra" ; Times: 9
+	Query: "genus:Platyrrhinus specificepithet:lineatus" ; Times: 2
+	Query: "cheiromeles" ; Times: 2
+	Query: "Myotis atacamensis" ; Times: 1
+	Query: "Vampyressa pusilla" ; Times: 4
+	Query: "Alouatta caraya" ; Times: 3
+	Query: "Aonyx cinerea" ; Times: 7
+	Query: "Cercopithecus petaurista" ; Times: 9
+	Query: "Callithrix jacchus" ; Times: 2
+	Query: "Lionycteris spurrelli" ; Times: 8
+	Query: "Euderma maculatum basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 8
+	Query: "Coendou mexicanus" ; Times: 1
+	Query: "aonyx cinerea" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 1171 download events in this period)
+Total number of records downloaded: 2526
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: India ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 29
+	Country: Austria ; Times: 5
+	Country: Argentina ; Times: 14
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-05 ; Times: 2
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-17 ; Times: 6
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-23 ; Times: 6
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-07 ; Times: 2
+	Date: 2020-04-26 ; Times: 5
+	Date: 2020-04-27 ; Times: 2
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-03 ; Times: 4
+	Date: 2020-04-21 ; Times: 2
+	Date: 2020-04-28 ; Times: 14
+	Date: 2020-04-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:nyctinomops specificepithet:laticaudatus" ; Times: 1
+	Query: "vntype:specimen genus:Galago" ; Times: 1
+	Query: "lama guanicoe" ; Times: 2
+	Query: "vntype:specimen genus:Lasionycteris family:Vespertilionidae continent:North America" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:artibeus specificepithet:lituratus" ; Times: 1
+	Query: "genus:Artibeus specificepithet:lituratus country:(peru OR ecuador OR paraguay)" ; Times: 1
+	Query: "vntype:specimen genus:Scalopus" ; Times: 1
+	Query: "genus:Noctilio specificepithet:albiventris" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "Thomasomys" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "vntype:specimen genus:Lagidium" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "genus:Myotis specificepithet:nigricans" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "vntype:specimen family:Echimyidae" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+	Query: "vntype:specimen family:Caviidae" ; Times: 1
+	Query: "Lama guanicoe" ; Times: 12
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "vntype:specimen family:Otariidae" ; Times: 1
+	Query: "vntype:specimen family:Myoxidae" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Bangladesh&#34; OR &#34;Bhutan&#34; OR &#34;Burma&#34; OR &#34;Cambodia&#34; OR &#34;China&#34; OR &#34;India&#34; OR &#34;Laos&#34; OR &#34;Malaysia&#34; OR &#34;Myanmar&#34; OR &#34;Nepal&#34; OR &#34;Thailand&#34; OR &#34;Vietnam&#34; continent:Asia" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "vntype:specimen family:Lemuridae" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Glaucomys" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor" ; Times: 1
+	Query: "genus:Blarina hastissue:1" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen family:Macroscelididae" ; Times: 1
+	Query: "vntype:specimen family:Procaviidae" ; Times: 1
+
+
+End of report.
