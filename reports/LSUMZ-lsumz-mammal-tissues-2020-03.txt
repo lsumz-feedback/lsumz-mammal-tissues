@@ -1,0 +1,192 @@
+Report for Institution Code LSUMZ, Resource lsumz-mammal-tissues
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 128
+Number of records retrieved in searches: 508
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 40
+	Country: Brazil ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 84
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 6
+	Date: 2020-03-19 ; Times: 5
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-05 ; Times: 4
+	Date: 2020-03-10 ; Times: 6
+	Date: 2020-03-18 ; Times: 63
+	Date: 2020-03-20 ; Times: 22
+	Date: 2020-03-16 ; Times: 2
+	Date: 2020-03-17 ; Times: 5
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-06 ; Times: 2
+	Date: 2020-03-13 ; Times: 1
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-02 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Nyctinomops aurispinosus" ; Times: 2
+	Query: "Panthera uncia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hipposideros larvatus" ; Times: 1
+	Query: "LSUMZ 1440" ; Times: 1
+	Query: "LSUMZ 922" ; Times: 2
+	Query: "genus:Gazella specificepithet:spekei" ; Times: 2
+	Query: "Micronycteris minuta" ; Times: 2
+	Query: "Chironax melanocephalus" ; Times: 1
+	Query: "Megaerops ecaudatus" ; Times: 2
+	Query: "Platyrrhinus dorsalis" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 4
+	Query: "Miniopterus magnater" ; Times: 2
+	Query: "Lasiurus intermedius" ; Times: 2
+	Query: "Idionycteris phyllotis" ; Times: 2
+	Query: "Eptesicus brasiliensis" ; Times: 1
+	Query: "(institutioncode:MVZ OR institutioncode:MSB OR institutioncode:LSUMZ OR institutioncode:AMNH OR institutioncode:USNM OR institutioncode:FMNH OR institutioncode:TTU) (genus:Glischropus) (hastissue:1)" ; Times: 1
+	Query: "(institutioncode:MVZ OR institutioncode:MSB OR institutioncode:LSUMZ OR institutioncode:AMNH OR institutioncode:USNM OR institutioncode:FMNH OR institutioncode:TTU) (genus:Murina) (hastissue:1)" ; Times: 1
+	Query: "Mimon cozumelae" ; Times: 2
+	Query: "specificepithet:canadensis genus:Castor stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Balionycteris maculata" ; Times: 1
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 3
+	Query: "(institutioncode:MVZ OR institutioncode:MSB OR institutioncode:LSUMZ OR institutioncode:AMNH OR institutioncode:USNM OR institutioncode:FMNH OR institutioncode:TTU) (genus:Cheiromeles) (hastissue:1)" ; Times: 1
+	Query: "LSUMZ 8401" ; Times: 1
+	Query: "genus:Bison institutioncode:LSUMZ" ; Times: 1
+	Query: "Hipposideros bicolor" ; Times: 1
+	Query: "LSU 8401" ; Times: 1
+	Query: "Chiroderma salvini" ; Times: 1
+	Query: "Kerivoula pellucida" ; Times: 2
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "Macroglossus sobrinus" ; Times: 2
+	Query: "Rhinolophus luctus" ; Times: 1
+	Query: "vntype:specimen family:Herpestidae hastissue:1" ; Times: 1
+	Query: "Rhinolophus creaghi" ; Times: 1
+	Query: "Murina cyclotis" ; Times: 2
+	Query: "Myotis atacamensis" ; Times: 2
+	Query: "Dyacopterus spadiceus" ; Times: 1
+	Query: "(institutioncode:MVZ OR institutioncode:MSB OR institutioncode:LSUMZ OR institutioncode:AMNH OR institutioncode:USNM OR institutioncode:FMNH OR institutioncode:TTU) (genus:Mormopterus) (hastissue:1)" ; Times: 1
+	Query: "Lonchophylla mordax" ; Times: 2
+	Query: "Kerivoula papillosa" ; Times: 2
+	Query: "Phylloderma stenops" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Rhinophylla fischerae" ; Times: 1
+	Query: "LSU 741" ; Times: 1
+	Query: "genus:Procavia specificepithet:capensis" ; Times: 2
+	Query: "Uroderma magnirostrum" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "LSUmz 741" ; Times: 1
+	Query: "catalognumber:11271 institutioncode:LSUMZ" ; Times: 1
+	Query: "Rhinolophus affinis" ; Times: 1
+	Query: "Sturnira luisi" ; Times: 1
+	Query: "Glischropus tylopus" ; Times: 1
+	Query: "Platyrrhinus lineatus" ; Times: 1
+	Query: "Sturnira bidens" ; Times: 1
+	Query: "Rhinolophus philippinensis" ; Times: 1
+	Query: "Tomopeas ravus" ; Times: 1
+	Query: "LSU 7658" ; Times: 2
+	Query: "Saccopteryx leptura" ; Times: 1
+	Query: "Kerivoula intermedia" ; Times: 2
+	Query: "(institutioncode:MVZ OR institutioncode:MSB OR institutioncode:LSUMZ OR institutioncode:AMNH OR institutioncode:USNM OR institutioncode:FMNH OR institutioncode:TTU) (genus:Emballonura) (hastissue:1)" ; Times: 2
+	Query: "Rhogeessa tumida" ; Times: 1
+	Query: "Lionycteris spurrelli" ; Times: 2
+	Query: "Megaerops wetmorei" ; Times: 2
+	Query: "Emballonura monticola" ; Times: 1
+	Query: "(institutioncode:MVZ OR institutioncode:MSB OR institutioncode:LSUMZ OR institutioncode:AMNH OR institutioncode:USNM OR institutioncode:FMNH OR institutioncode:TTU) (family:Nycteridae) (hastissue:1)" ; Times: 1
+	Query: "Kerivoula minuta" ; Times: 2
+	Query: "Eumops glaucinus" ; Times: 1
+	Query: "Eumops perotis" ; Times: 1
+	Query: "Rhinolophus lepidus" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "Hesperoptenus tomesi" ; Times: 1
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 2
+	Query: "Phoniscus atrox" ; Times: 1
+	Query: "family:Herpestidae hastissue:1" ; Times: 1
+	Query: "Lonchophylla hesperia" ; Times: 2
+	Query: "Hipposideros cineraceus" ; Times: 1
+	Query: "genus:Histiotus hastissue:1" ; Times: 1
+	Query: "family:Rhinolophidae institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "Megaderma spasma" ; Times: 2
+	Query: "Phyllostomus elongatus" ; Times: 1
+	Query: "(institutioncode:MVZ OR institutioncode:MSB OR institutioncode:LSUMZ OR institutioncode:AMNH OR institutioncode:USNM OR institutioncode:FMNH OR institutioncode:TTU) (genus:Kerivoula) (hastissue:1)" ; Times: 1
+	Query: "Myotis ater" ; Times: 2
+	Query: "Cheiromeles torquatus" ; Times: 1
+	Query: "Nycteris tragata" ; Times: 2
+	Query: "Histiotus montanus" ; Times: 1
+	Query: "Hipposideros galeritus" ; Times: 1
+	Query: "Sturnira magna" ; Times: 1
+	Query: "Platyrrhinus vittatus" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Hesperoptenus" ; Times: 1
+	Query: "Mormopterus kalinowskii" ; Times: 2
+	Query: "Anoura cultrata" ; Times: 1
+	Query: "Hipposideros ridleyi" ; Times: 1
+	Query: "Promops centralis" ; Times: 1
+	Query: "Vampyressa pusilla" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Phoniscus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 853 download events in this period)
+Total number of records downloaded: 715
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 26
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 1
+	Date: 2020-03-10 ; Times: 2
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-22 ; Times: 2
+	Date: 2020-03-18 ; Times: 15
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-17 ; Times: 7
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:floridana genus:Neotoma stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Panthera uncia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(institutioncode:MVZ OR institutioncode:MSB OR institutioncode:LSUMZ OR institutioncode:AMNH OR institutioncode:USNM OR institutioncode:FMNH OR institutioncode:TTU) (family:Emballonuridae)" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "family:Pteropodidae institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "family:Rhinolophidae hastissue:1" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 2
+	Query: "(scandentia)" ; Times: 2
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "specificepithet:interpres genus:Ammospermophilus" ; Times: 1
+	Query: "(institutioncode:MVZ OR institutioncode:MSB OR institutioncode:LSUMZ OR institutioncode:AMNH OR institutioncode:USNM OR institutioncode:FMNH OR institutioncode:TTU) (family:Emballonuridae) (hastissue:1)" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "(institutioncode:MVZ OR institutioncode:MSB OR institutioncode:LSUMZ OR institutioncode:AMNH OR institutioncode:USNM OR institutioncode:FMNH OR institutioncode:TTU) (genus:Pipistrellus) (hastissue:1)" ; Times: 1
+	Query: "ALOUATTA CARAYA" ; Times: 1
+	Query: "(institutioncode:MVZ OR institutioncode:MSB OR institutioncode:LSUMZ OR institutioncode:AMNH OR institutioncode:USNM OR institutioncode:FMNH OR institutioncode:TTU) (genus:Emballonura) (hastissue:1)" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Hesperoptenus" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Nycteridae" ; Times: 1
+	Query: "(institutioncode:MVZ OR institutioncode:MSB OR institutioncode:LSUMZ OR institutioncode:AMNH OR institutioncode:USNM OR institutioncode:FMNH OR institutioncode:TTU) (genus:Mormopterus) (hastissue:1)" ; Times: 1
+	Query: "(institutioncode:MVZ OR institutioncode:MSB OR institutioncode:LSUMZ OR institutioncode:AMNH OR institutioncode:USNM OR institutioncode:FMNH OR institutioncode:TTU) (genus:Tadarida) (hastissue:1)" ; Times: 1
+	Query: "(institutioncode:MVZ OR institutioncode:MSB OR institutioncode:LSUMZ OR institutioncode:AMNH OR institutioncode:USNM OR institutioncode:FMNH OR institutioncode:TTU) (genus:Murina) (hastissue:1)" ; Times: 1
+	Query: "(institutioncode:MVZ OR institutioncode:MSB OR institutioncode:LSUMZ OR institutioncode:AMNH OR institutioncode:USNM OR institutioncode:FMNH OR institutioncode:TTU) (family:Nycteridae) (hastissue:1)" ; Times: 1
+	Query: "elephantulus rufescens" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Megadermatidae" ; Times: 1
+	Query: "(institutioncode:MVZ OR institutioncode:MSB OR institutioncode:LSUMZ OR institutioncode:AMNH OR institutioncode:USNM OR institutioncode:FMNH OR institutioncode:TTU) (genus:Eptesicus) (hastissue:1)" ; Times: 1
+	Query: "(institutioncode:MVZ OR institutioncode:MSB OR institutioncode:LSUMZ OR institutioncode:AMNH OR institutioncode:USNM OR institutioncode:FMNH OR institutioncode:TTU) (genus:Kerivoula) (hastissue:1)" ; Times: 1
+	Query: "(institutioncode:MVZ OR institutioncode:MSB OR institutioncode:LSUMZ OR institutioncode:AMNH OR institutioncode:USNM OR institutioncode:FMNH OR institutioncode:TTU) (genus:Myotis) (hastissue:1)" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Phoniscus" ; Times: 1
+	Query: "(institutioncode:MVZ OR institutioncode:MSB OR institutioncode:LSUMZ OR institutioncode:AMNH OR institutioncode:USNM OR institutioncode:FMNH OR institutioncode:TTU) (genus:Cheiromeles) (hastissue:1)" ; Times: 1
+
+
+End of report.
