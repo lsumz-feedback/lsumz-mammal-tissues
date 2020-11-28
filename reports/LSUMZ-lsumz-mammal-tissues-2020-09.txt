@@ -1,0 +1,145 @@
+Report for Institution Code LSUMZ, Resource lsumz-mammal-tissues
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 303
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Peru ; Times: 12
+	Country: Mexico ; Times: 11
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 17
+	Country: Colombia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 1
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-17 ; Times: 8
+	Date: 2020-09-10 ; Times: 3
+	Date: 2020-09-11 ; Times: 2
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-13 ; Times: 13
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-08 ; Times: 2
+	Date: 2020-09-03 ; Times: 3
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-05 ; Times: 3
+	Date: 2020-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lonchophylla mordax vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "scientificname:Peromyscus mexicanus" ; Times: 1
+	Query: "LSUMZ 1568" ; Times: 1
+	Query: "scientificname:Oryzomys alfaroi" ; Times: 1
+	Query: "LSUMZ 1565" ; Times: 2
+	Query: "Myotis atacamensis Peru" ; Times: 1
+	Query: "scientificname:Peromyscus melanotis" ; Times: 1
+	Query: "class:mammalia catalognumber:1311 institutioncode:LSUMZ" ; Times: 1
+	Query: "Myocastor hastissue:1" ; Times: 1
+	Query: "family:Herpestidae hastissue:1" ; Times: 1
+	Query: "LSU 5128" ; Times: 1
+	Query: "LSUMZ 2333" ; Times: 1
+	Query: "scientificname:Reithrodontomys fulvescens" ; Times: 2
+	Query: "scientificname:Liomys irroratus" ; Times: 1
+	Query: "scientificname:Oligoryzomys fulvescens" ; Times: 1
+	Query: "genus:Dusicyon hastissue:1" ; Times: 1
+	Query: "Cricetomys" ; Times: 1
+	Query: "scientificname:Peromyscus aztecus" ; Times: 1
+	Query: "genus:Melogale hastissue:1" ; Times: 1
+	Query: "scientificname:Reithrodontomys mexicanus" ; Times: 1
+	Query: "genus:Herpestes hastissue:1" ; Times: 1
+	Query: "specificepithet:pusillus genus:sciurillus stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "scientificname:Chinchilla chinchilla" ; Times: 1
+	Query: "scientificname:Peromyscus difficilis" ; Times: 1
+	Query: "Nyctinomops laticaudatus Peru" ; Times: 1
+	Query: "specificepithet: flavigula genus:Martes hastissue:1" ; Times: 1
+	Query: "LSUMZ 1574" ; Times: 1
+	Query: "eutamias merriami" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Iowa&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 1822" ; Times: 2
+	Query: "Myotis atacamensis" ; Times: 1
+	Query: "genus:Aonyx hastissue:1" ; Times: 1
+	Query: "Myotis oxyotus LSU" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Iowa&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Microsciurus stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "LSUMZ 2721" ; Times: 2
+	Query: "Platyrrhinus Piura Peru" ; Times: 1
+	Query: "scientificname:Reithrodontomys sumichrasti" ; Times: 1
+	Query: "genus:Nasua hastissue:1" ; Times: 1
+	Query: "lsu 5400" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 976 download events in this period)
+Total number of records downloaded: 810
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 27
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-21 ; Times: 1
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-17 ; Times: 3
+	Date: 2020-09-10 ; Times: 3
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-13 ; Times: 2
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-18 ; Times: 3
+	Date: 2020-09-09 ; Times: 7
+	Date: 2020-09-08 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-06 ; Times: 2
+	Date: 2020-09-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "Scotinomys xerampelinus" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "family:emballonuridae" ; Times: 1
+	Query: "Phyllostomus elongatus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "Myocastor coypus continent:north america" ; Times: 1
+	Query: "specificepithet:lupus genus:canis continent:North America" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "specificepithet:rufus genus:canis" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes" ; Times: 2
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "family:Canidae hastissue:1" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "artibeus cinereus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "genus:Neacomys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "vntype:specimen class:mammalia stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:lagopus genus:vulpes" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+
+
+End of report.
