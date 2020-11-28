@@ -1,0 +1,67 @@
+Report for Institution Code LSUMZ, Resource lsumz-mammal-tissues
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 30
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: India ; Times: 2
+	Country: Nepal ; Times: 1
+	Country: Bolivia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 2
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-14 ; Times: 2
+	Date: 2020-06-04 ; Times: 3
+	Date: 2020-06-10 ; Times: 1
+	Date: 2020-06-13 ; Times: 1
+	Date: 2020-06-12 ; Times: 1
+	Date: 2020-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:niviventer country:malaysia" ; Times: 1
+	Query: "Dactylomys" ; Times: 2
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Glaucomys sabrinus vntype:specimen stateprovince:&#34;California&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 2
+	Query: "Geomys arenarius" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "catalognumber:452 institutioncode:LSUMZ" ; Times: 1
+	Query: "niviventer cremoriventer" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 474 download events in this period)
+Total number of records downloaded: 40
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Bolivia ; Times: 2
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-06 ; Times: 2
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 3
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dactylomys" ; Times: 2
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "Panthera uncia" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 1
+
+
+End of report.
