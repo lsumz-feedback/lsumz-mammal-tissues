@@ -1,0 +1,84 @@
+Report for Institution Code LSUMZ, Resource lsumz-mammal-tissues
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 54
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-20 ; Times: 2
+	Date: 2020-12-30 ; Times: 3
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-22 ; Times: 2
+	Date: 2020-12-29 ; Times: 7
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-04 ; Times: 4
+	Date: 2020-12-14 ; Times: 1
+	Date: 2020-12-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Geomys stateprovince:&#34;minnesota&#34;" ; Times: 1
+	Query: "Oecomys bicolor" ; Times: 1
+	Query: "catalognumber:6259 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 8289" ; Times: 1
+	Query: "specificepithet:astutus genus:bassariscus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Saguinus midas" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:LSUMZ" ; Times: 1
+	Query: "Sciurus ignitus" ; Times: 1
+	Query: "Muntiacus muntjac" ; Times: 1
+	Query: "Glischropus tylopus" ; Times: 1
+	Query: "catalognumber:265 institutioncode:LSUMZ" ; Times: 4
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "LSU 5725" ; Times: 1
+	Query: "catalognumber:7783 institutioncode:LSUMZ" ; Times: 4
+	Query: "11296" ; Times: 1
+	Query: "genus:Galago hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 705 download events in this period)
+Total number of records downloaded: 666
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 2
+	Country: Romania ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-29 ; Times: 2
+	Date: 2020-12-07 ; Times: 2
+	Date: 2020-12-11 ; Times: 2
+	Date: 2020-12-03 ; Times: 4
+	Date: 2020-12-02 ; Times: 1
+	Date: 2020-12-16 ; Times: 1
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vulpes lagopus" ; Times: 1
+	Query: "Glossophaga commissarisi" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "&#34;Canis rufus&#34;" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:LSUMZ" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Sonora&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:arenarius genus:geomys" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Chihuahua&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Amazonas&#34; country:&#34;Peru&#34;" ; Times: 1
+
+
+End of report.
